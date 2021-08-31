@@ -1,0 +1,231 @@
+id,ident,type,name,lat,long,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+6467,UKBB,large_airport,Boryspil International Airport,50.345001220703125,30.894699096679688,427,EU,Ukraine,UA,Kiev,UA-32,32,Kiev,1,UKBB,KBP,NA,http://www.airport-borispol.kiev.ua/,https://en.wikipedia.org/wiki/Boryspil_International_Airport,"Borispol, Міжнародний аеропорт ""Бориспіль""",1600,2009-02-18T19:50:27Z
+6478,UKKK,medium_airport,Kiev Zhuliany International Airport,50.40194,30.45194,587,EU,Ukraine,UA,Kiev,UA-32,32,Kiev,1,UKKK,IEV,NA,https://iev.aero/,https://en.wikipedia.org/wiki/Kyiv_International_Airport_(Zhuliany),"Міжнародний аеропорт ""Київ""",1050,2018-09-16T02:24:51Z
+6481,UKLL,medium_airport,Lviv International Airport,49.8125,23.956100463867188,1071,EU,Ukraine,UA,Lviv,UA-46,46,Lviv,1,UKLL,LWO,NA,http://www.airport.lviv.ua/index.php?id=home&L=1,https://en.wikipedia.org/wiki/Lviv_International_Airport,"Міжнародний аеропорт ""Львів""",1200,2009-02-18T19:52:47Z
+6487,UKOO,large_airport,Odessa International Airport,46.42679977416992,30.67650032043457,172,EU,Ukraine,UA,Odessa,UA-51,51,Odessa,1,UKOO,ODS,NA,http://www.airport.od.ua/,https://en.wikipedia.org/wiki/Odessa_International_Airport,"Odesa Central, Міжнародний аеропорт Одеса",1200,2009-01-21T23:07:01Z
+6474,UKFF,large_airport,Simferopol International Airport,45.0522,33.975101,639,EU,Ukraine,UA,Crimea,UA-43,43,Simferopol,1,UKFF,SIP,URFF,https://new.sipaero.ru/,https://en.wikipedia.org/wiki/Simferopol_International_Airport,NA,1200,2021-03-10T08:58:37Z
+6471,UKDD,medium_airport,Dnipropetrovsk International Airport,48.357200622558594,35.10060119628906,481,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Dnipropetrovsk,1,UKDD,DNK,NA,NA,https://en.wikipedia.org/wiki/Dnipropetrovsk_International_Airport,"Міжнародний аеропорт ""Дніпропетровськ""",1200,2009-02-18T18:23:07Z
+6476,UKHH,large_airport,Kharkiv International Airport,49.924800872802734,36.290000915527344,508,EU,Ukraine,UA,Kharkiv,UA-63,63,Kharkiv,1,UKHH,HRK,NA,http://www.airport.kharkov.ua/,https://en.wikipedia.org/wiki/Kharkiv_International_Airport,"Osnova International Airport, Міжнародний аеропорт ""Харків""",1200,2009-02-18T19:59:24Z
+6468,UKCC,closed,Donetsk Sergei Prokofiev International Airport,48.075072,37.72527,791,EU,Ukraine,UA,Donetsk,UA-14,14,Donetsk,0,UKCC,DOK,NA,http://airport.dn.ua/,https://en.wikipedia.org/wiki/Donetsk_International_Airport,"Міжнародний аеропорт ""Донецьк""",1200,2021-03-10T13:42:27Z
+6485,UKLU,medium_airport,Uzhhorod International Airport,48.634300231933594,22.263399124145508,383,EU,Ukraine,UA,Zakarpattia,UA-21,21,Uzhhorod,1,UKLU,UDJ,NA,NA,https://en.wikipedia.org/wiki/Uzhhorod_International_Airport,"Міжнародний аеропорт ""Ужгород""",800,2009-02-18T20:01:50Z
+6482,UKLN,medium_airport,Chernivtsi International Airport,48.259300231933594,25.98080062866211,826,EU,Ukraine,UA,Chernivtsi,UA-77,77,Chernivtsi,1,UKLN,CWC,NA,NA,https://en.wikipedia.org/wiki/Chernivtsi_International_Airport,NA,1050,2009-02-18T18:21:01Z
+6480,UKLI,medium_airport,Ivano-Frankivsk International Airport,48.88420104980469,24.686100006103516,919,EU,Ukraine,UA,Ivano-Frankivsk,UA-26,26,Ivano-Frankivsk,1,UKLI,IFO,NA,http://www.aeroportifua.ifrastudio.com/index.php?area=2,https://en.wikipedia.org/wiki/Ivano-Frankivsk_International_Airport,Міжнародний аеропорт Івано-Франківськ,1050,2009-02-18T19:46:15Z
+6479,UKKM,medium_airport,Gostomel Airport,50.60350036621094,30.1919002532959,517,EU,Ukraine,UA,Kiev,UA-32,32,Kiev,0,UKKM,GML,NA,http://www.antonov.com/products/airport/index.xml,https://en.wikipedia.org/wiki/Gostomel_Airport,"Antonov International Airport, Аеропорт „Антонов”, Hostomel Airport",750,2009-01-21T23:11:13Z
+6470,UKCW,medium_airport,Luhansk International Airport,48.4174003601,39.3740997314,636,EU,Ukraine,UA,Luhansk,UA-09,09,Luhansk,1,UKCW,VSG,NA,NA,https://en.wikipedia.org/wiki/Luhansk_International_Airport,"Lugansk International Airport, Міжнародний аеропорт Луганськ, Аэропорт Луганск",1050,2010-02-22T15:59:41Z
+31747,UKFK,small_airport,Kerch Airport,45.372501373291016,36.40140151977539,171,EU,Ukraine,UA,Crimea,UA-43,43,Kerch,0,UKFK,KHC,NA,NA,NA,NA,50,2008-08-03T11:50:53Z
+44436,UA-0038,small_airport,Kiev Chaika,50.428696,30.29854,NA,EU,Ukraine,UA,Kiev,UA-32,32,Kiev,0,UKKJ,NA,NA,NA,https://en.wikipedia.org/Kiev_Chaika_Airfield,NA,0,2019-07-14T05:35:52Z
+45181,UA-0052,small_airport,Korotych Airfield,49.971,36.011,NA,EU,Ukraine,UA,Kharkiv,UA-63,63,Lyubotin,0,NA,NA,NA,http://www.aeroclub.net.ua/,NA,"Korotich Airfield, Аэродром Коротыч, Аэродром Коротич",0,2009-11-18T14:39:25Z
+342153,UA-0146,small_airport,Aero club Swallow,48.81223,26.022577,873,EU,Ukraine,UA,Ternopil,UA-61,61,Борщів,0,NA,NA,NA,NA,NA,"Борщів, Ластівка,С172",0,2021-03-16T10:47:19Z
+6473,UKDR,medium_airport,Kryvyi Rih International Airport,48.04330062866211,33.209999084472656,408,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Kryvyi Rih,1,UKDR,KWG,NA,NA,https://en.wikipedia.org/wiki/Kryvyi_Rih_International_Airport,"Lozuvatka International Airport, Міжнародний аеропорт ""Кривий Ріг""",1200,2009-02-18T19:49:40Z
+6472,UKDE,medium_airport,Zaporizhzhia International Airport,47.867000579833984,35.31570053100586,373,EU,Ukraine,UA,Zaporizhia,UA-23,23,Zaporizhia,1,UKDE,OZH,NA,NA,https://en.wikipedia.org/wiki/Zaporizhia_International_Airport,"Zaporozhye Airport, Міжнародний аеропорт Запоріжжя, Аэропорт Запорожье",1050,2009-03-19T16:43:50Z
+6483,UKLR,medium_airport,Rivne International Airport,50.60710144042969,26.141599655151367,755,EU,Ukraine,UA,Rivne,UA-19,19,Rivne,1,UKLR,RWN,NA,http://www.aeroport.rv.ua/,https://en.wikipedia.org/wiki/Rivne_International_Airport,"Міжнародний аеропорт ""Рівне""",900,2009-02-18T20:00:28Z
+6486,UKON,medium_airport,Mykolaiv International Airport,47.057899475097656,31.9197998046875,184,EU,Ukraine,UA,Mykolaiv,UA-48,48,Nikolayev,0,UKON,NLV,NA,http://www.airport.nikolaev.ua/,https://en.wikipedia.org/wiki/Mykolaiv_Airport,"Nikolayev Airport, Nikolaev Airport, Аэропорт Николаев",500,2009-07-18T14:54:01Z
+6469,UKCM,medium_airport,Mariupol International Airport,47.07609939575195,37.44960021972656,251,EU,Ukraine,UA,Donetsk,UA-14,14,Mariupol,1,UKCM,MPW,NA,http://www.maraero.com/,https://en.wikipedia.org/wiki/Mariupol_International_Airport,"Міжнародний аеропорт ""Маріуполь""",450,2009-02-18T19:55:28Z
+6477,UKKE,medium_airport,Cherkasy International Airport,49.41559982299805,31.99530029296875,375,EU,Ukraine,UA,Cherkasy,UA-71,71,Cherkasy,0,UKKE,CKC,NA,NA,NA,NA,250,2009-05-07T07:46:37Z
+6420,UKLH,medium_airport,Khmelnytskyi Airport,49.359699,26.933399,1150,EU,Ukraine,UA,Khmelnytskyi,UA-68,68,Khmelnytskyi,0,UKLH,HMJ,NA,NA,https://en.wikipedia.org/wiki/Khmelnytskyi_Ruzhichnaya_Airport,"Khmelnitskiy, Khmelnytskyi Ruzhichnaya",250,2017-10-25T12:16:02Z
+43013,UA-0005,medium_airport,Nizhyn Air Base,51.088535,31.870995,440,EU,Ukraine,UA,Chernihiv,UA-74,74,Nizhyn,0,UKRN,NA,NA,NA,https://en.wikipedia.org/wiki/Nizhyn_(air_base),"Nizhin Air Base, Nezhin Air Base, Аэродром Нежин",250,2021-03-12T13:17:24Z
+31019,UKDB,closed,Berdyansk Airport,46.814999,36.758099,171,EU,Ukraine,UA,Zaporizhia,UA-23,23,Berdyansk,0,UKDB,ERD,NA,NA,https://en.wikipedia.org/wiki/Berdyansk_Airport,NA,50,2021-04-05T23:40:56Z
+34958,UA-0002,small_airport,Brody Air Base,50.130001068115234,25.170000076293945,787,EU,Ukraine,UA,Lviv,UA-46,46,Brody,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Brody_%28air_base%29,"Brody Air Base, Аэродром Броды, Аэродром Броди",50,2009-04-23T18:45:57Z
+32535,UKRR,closed,Chernihiv Shestovytsia Airport,51.402199,31.1583,446,EU,Ukraine,UA,Chernihiv,UA-74,74,Chernihiv,0,UKKL,CEJ,NA,NA,https://en.wikipedia.org/wiki/Chernihiv_Shestovytsia_Airport,NA,50,2021-03-12T13:16:55Z
+34964,UA-0003,small_airport,Chernihiv Air Base,51.547537,31.309374,446,EU,Ukraine,UA,Chernihiv,UA-74,74,Chernihiv,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Chernihiv_%28air_base%29,Chernigov Air Base,50,2021-03-12T13:18:13Z
+6417,UK59,small_airport,Chuhuiv Air Base,49.8382,36.641201,453,EU,Ukraine,UA,Kharkiv,UA-63,63,Chuhuiv,0,NA,NA,NA,NA,NA,NA,50,2018-12-31T06:04:50Z
+34982,UA-2904,small_airport,Dubno Air Base,50.45000076293945,25.83329963684082,735,EU,Ukraine,UA,Rivne,UA-19,19,Dubno,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Dubno_(air_base),NA,50,2008-12-30T14:07:23Z
+34991,UA-8322,closed,Horodnia Air Base,51.883767,31.645489,489,EU,Ukraine,UA,Chernihiv,UA-74,74,Gorodnya,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Horodnia_(air_base),"Gorodnia Air Base, Gorodnya Air Base, Horodnya Air Base, Аэродром Городня",50,2021-03-12T13:18:57Z
+6419,UK61,small_airport,Cherlyany Airport,49.7379,23.6689,895,EU,Ukraine,UA,Lviv,UA-46,46,Gorodok,0,NA,NA,NA,NA,NA,"Cherliany Airport, Gorodok Airport, Аэропорт Черляны, Аэропорт Городок",50,2017-10-20T02:40:34Z
+35022,UA-8381,closed,Liubsha Air Base,49.2883,24.198299,807,EU,Ukraine,UA,Lviv,UA-46,46,Kalush,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Liubsha_(air_base),NA,50,2019-02-02T09:40:50Z
+32534,UKOH,small_airport,Kherson International Airport,46.6758,32.506401,148,EU,Ukraine,UA,Kherson,UA-65,65,Kherson,1,UKOH,KHE,NA,http://airport.kherson.ua/,https://en.wikipedia.org/wiki/Kherson_International_Airport,NA,50,2018-09-16T02:53:37Z
+31744,UKKG,small_airport,Kirovograd Airport,48.54280090332031,32.28499984741211,568,EU,Ukraine,UA,Kirovohrad,UA-35,35,Kirovograd,0,UKKG,KGO,NA,NA,NA,NA,50,2008-12-30T14:07:28Z
+35006,UA-3578,small_airport,Konotop Air Base,51.25,33.1500015259,476,EU,Ukraine,UA,Sumy,UA-59,59,Konotop,0,UKBF,NA,NA,NA,https://en.wikipedia.org/wiki/Konotop_(air_base),NA,50,2012-08-04T22:57:31Z
+31774,UKCK,small_airport,Kramatorsk Airport,48.706799,37.630922,646,EU,Ukraine,UA,Donetsk,UA-14,14,Kramatorsk,0,UKCK,KRQ,NA,NA,NA,NA,50,2021-04-11T13:49:45Z
+35016,UA-3897,closed,Lebedyn Air Base,50.549999,34.533298,476,EU,Ukraine,UA,Sumy,UA-59,59,Lebedyn,0,UKHN,NA,NA,NA,https://en.wikipedia.org/wiki/Lebedyn_(air_base),"Lebedin Air Base, Аэродром Лебедин",50,2018-12-31T14:41:01Z
+28146,UKLC,small_airport,Lutsk Airport,50.678404,25.487165,774,EU,Ukraine,UA,Volyn,UA-07,07,Lutsk,0,UKLC,UCK,NA,NA,https://en.wikipedia.org/wiki/Lutsk_Airport,NA,50,2017-02-18T21:53:18Z
+35028,UA-8984,small_airport,Lutsk Air Base,50.7886830253,25.3482913971,640,EU,Ukraine,UA,Volyn,UA-07,07,Lutsk,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Lutsk_(air_base),NA,50,2010-02-22T15:54:35Z
+35039,RU-2098,closed,Mukachevo Air Base,48.400001525878906,22.683300018310547,390,EU,Ukraine,UA,Zakarpattia,UA-21,21,Mukachev,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Mukachevo_(air_base),NA,50,2008-12-30T14:07:23Z
+35045,UA-3730,closed,Okhtyrka Air Base,50.306,35.02,489,EU,Ukraine,UA,Sumy,UA-59,59,Okhtyrka,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Okhtyrka_(air_base),Аэродром Ахтырка,50,2019-01-03T04:38:37Z
+35051,UA-9155,small_airport,Ovruch Air Base,51.271366119384766,28.720836639404297,528,EU,Ukraine,UA,Zhytomyr,UA-18,18,Ovruch,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Ovruch_(air_base),NA,50,2009-01-09T16:22:13Z
+32532,UKHP,small_airport,Suprunovka Airport,49.568599700927734,34.39720153808594,505,EU,Ukraine,UA,Poltava,UA-53,53,Poltava,0,UKHP,PLV,NA,NA,NA,NA,50,2008-08-14T12:06:12Z
+35061,UA-7707,small_airport,Pryluki Air Base,50.56669998168945,32.31669998168945,449,EU,Ukraine,UA,Chernihiv,UA-74,74,Pryluky,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Pryluky_(air_base),"Pryluky Air Base, Аэродром Прилуки",50,2009-04-24T16:10:52Z
+35109,UA-6709,closed,Velyka Krucha Air Base,50.1500015259,32.5332984924,384,EU,Ukraine,UA,Poltava,UA-53,53,Pyriatyn,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Velyka_Krucha_(air_base),NA,50,2009-11-18T14:42:10Z
+35070,UA-1901,closed,Sambir Air Base,49.54999923706055,23.334999084472656,860,EU,Ukraine,UA,Lviv,UA-46,46,Sambir,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Sambir_(air_base),NA,50,2009-02-02T11:21:13Z
+35087,UA-2644,small_airport,Starokostiantyniv Air Base,49.74829864501953,27.27330017089844,873,EU,Ukraine,UA,Khmelnytskyi,UA-68,68,Starokostiantyniv,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Starokostiantyniv_(air_base),NA,50,2008-12-30T14:07:34Z
+35089,UA-8143,small_airport,Stryi Air Base,49.24330139160156,23.786699295043945,1024,EU,Ukraine,UA,Lviv,UA-46,46,Stryi,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Stryi_(air_base),NA,50,2008-08-03T11:50:50Z
+32541,UKHS,small_airport,Sumy Airport,50.858299255371094,34.76250076293945,594,EU,Ukraine,UA,Sumy,UA-59,59,Sumy,0,UKHS,UMY,NA,NA,NA,NA,50,2008-08-03T11:51:06Z
+6484,UKLT,small_airport,Ternopil International Airport,49.5242,25.7001,1072,EU,Ukraine,UA,Ternopil,UA-61,61,Ternopil,0,UKLT,NA,NA,NA,https://en.wikipedia.org/wiki/Ternopil_Airport,NA,50,2016-11-26T07:16:19Z
+32533,UKKH,small_airport,Chepelevka Airport,49.79059982299805,30.4414005279541,568,EU,Ukraine,UA,Kiev,UA-32,32,Uzin,0,UKKH,NA,NA,NA,NA,NA,50,2008-08-03T11:51:08Z
+35108,UA-6118,small_airport,Vasylkiv Air Base,50.233299255371094,30.299999237060547,673,EU,Ukraine,UA,Kiev,UA-32,32,Vasylkiv,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Vasylkiv_(air_base),NA,50,2008-08-03T11:50:46Z
+30535,UKWW,small_airport,Vinnytsia/Gavyryshivka Airport,49.242531,28.613778,961,EU,Ukraine,UA,Vinnytsia,UA-05,05,Vinnitsa,0,UKWW,VIN,NA,NA,NA,"Gavrishevka Airport, Gavrishivka Airport, Аэропорт Гавришевка , Аэропорт Гавришiвка",50,2012-02-14T15:08:43Z
+34999,UA-9861,small_airport,Zhovtneve Air Base,50.9109992980957,24.45199966430664,699,EU,Ukraine,UA,Volyn,UA-07,07,Volodymyr-Volynskyi,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Khovtnevoy,"Zhovtnevoye Air Base, Zhovtnevoe Air Base, Аэродром Жовтневе, Аэродром Жовтневое",50,2009-04-23T18:04:31Z
+32531,UKFV,small_airport,Yevpatoria Airport,45.225601,33.376701,33,EU,Ukraine,UA,Crimea,UA-43,43,Yevpatoria,0,UKFE,NA,NA,NA,NA,"UKFV, Yevpatoria Aircraft Repair Plant Airport",50,2021-03-19T15:45:54Z
+34956,UA-0001,closed,Borodyanka Air Base,50.6633,29.8933,463,EU,Ukraine,UA,Kiev,UA-32,32,Borodyanka,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Borodianka_%28air_base%29,"Borodianka Air Base, Аэродром Бородянка",1,2021-03-12T11:58:31Z
+34966,UA-0004,closed,Pustogorod Air Base,51.849998474121094,34.04999923706055,636,EU,Ukraine,UA,Sumy,UA-59,59,Hlukhiv,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Chervonoye_Pustogorod,"Chervonoye  Air Base, Chervonoe  Air Base, Аэродром Червоное, Аэродром Пустогород",1,2009-04-25T07:12:32Z
+316378,UA-0082,small_airport,Sutiski,49.066667,28.44166,NA,EU,Ukraine,UA,Vinnytsia,UA-05,05,NA,0,NA,NA,NA,NA,NA,NA,0,2015-11-18T11:02:29Z
+316429,UA-0083,small_airport,Filiutka,49.335903,29.270067,NA,EU,Ukraine,UA,Vinnytsia,UA-05,05,NA,0,NA,NA,NA,NA,NA,NA,0,2015-11-28T01:54:33Z
+302309,UKKV,small_airport,Zhytomyr Airport,50.270556,28.738611,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,NA,0,UKKV,ZTR,NA,NA,https://en.wikipedia.org/wiki/Zhytomyr_Airport,NA,0,2012-08-04T23:07:46Z
+316280,UA-0079,small_airport,Andrushivka,50.0193428,28.9912024,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,NA,0,NA,NA,NA,NA,NA,NA,0,2015-11-09T02:34:20Z
+316330,UA-0080,closed,Narodychi,51.2312512,29.0707288,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,NA,0,NA,NA,NA,NA,NA,NA,0,2015-11-13T08:36:16Z
+321207,UA-0105,small_airport,Karabachyn Airstrip,50.274742,29.4414066,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,NA,0,NA,NA,NA,NA,NA,NA,0,2016-11-15T20:23:42Z
+324565,UA-0118,heliport,Rafalivka Helicopter Base,51.360218,25.9194958,NA,EU,Ukraine,UA,Rivne,UA-19,19,NA,0,NA,NA,NA,NA,NA,NA,0,2017-07-28T00:14:04Z
+332720,UA-0127,small_airport,Kosino Spa Resort,48.253128,22.49937,NA,EU,Ukraine,UA,Zakarpattia,UA-21,21,NA,0,NA,NA,NA,NA,NA,NA,0,2019-11-23T04:41:58Z
+43869,UA-0006,closed,Kornych Air Base,48.52899932861328,25.125,NA,EU,Ukraine,UA,Ivano-Frankivsk,UA-26,26,NA,0,NA,NA,NA,NA,NA,"Kornich Air Base, Аэродром Корныч",0,2009-03-26T08:20:23Z
+332158,UA-0126,small_airport,Pidhirya Airfield,48.788823,24.476531,NA,EU,Ukraine,UA,Ivano-Frankivsk,UA-26,26,NA,0,UKMG,NA,NA,NA,NA,NA,0,2020-09-28T00:10:17Z
+332951,UA-0128,small_airport,Pidverbtsi Airstrip,48.78682,25.217443,NA,EU,Ukraine,UA,Ivano-Frankivsk,UA-26,26,NA,0,NA,NA,ZF5F,NA,NA,NA,0,2020-01-06T05:06:50Z
+46582,UA-0073,heliport,Hydropark,50.4580555556,30.5683333333,NA,EU,Ukraine,UA,Kiev (city),UA-30,30,NA,0,NA,NA,NA,NA,NA,NA,0,2010-12-19T11:52:50Z
+46584,UA-0074,heliport,Mariinsky park helipad,50.4486111111,30.545,NA,EU,Ukraine,UA,Kiev (city),UA-30,30,NA,0,NA,NA,NA,NA,NA,"Ukraine president helipad, Mariinsky helipad",0,2010-12-21T18:48:29Z
+315770,UKVN,small_airport,Nalivaykovka,50.479167,29.735833,NA,EU,Ukraine,UA,Kiev,UA-32,32,NA,0,UKVN,NA,NA,http://aeroprakt.org,NA,NA,0,2015-10-13T13:22:47Z
+321106,UA-0098,small_airport,Zabroshennyy aerodrom,49.532465,29.8864455,NA,EU,Ukraine,UA,Kiev,UA-32,32,NA,0,NA,NA,NA,NA,NA,Volodarka,0,2016-11-10T04:20:28Z
+321183,UA-0100,small_airport,Ksaverivka Airfield,50.0056471,30.1979242,NA,EU,Ukraine,UA,Kiev,UA-32,32,NA,0,NA,NA,NA,NA,NA,NA,0,2016-11-14T12:21:01Z
+321184,UA-0101,heliport,Mezhigyrya Heliport,50.621465,30.460391,NA,EU,Ukraine,UA,Kiev,UA-32,32,NA,0,NA,NA,NA,NA,NA,NA,0,2016-11-14T12:24:43Z
+321666,UA-0112,small_airport,Palianychyntsi Airstrip,50.0129543,29.9795159,NA,EU,Ukraine,UA,Kiev,UA-32,32,NA,0,NA,NA,NA,NA,NA,NA,0,2016-12-31T05:56:37Z
+315689,BY-0011,small_airport,Aerodrom Belz,50.3771921,23.9648804,NA,EU,Ukraine,UA,Lviv,UA-46,46,NA,0,NA,NA,NA,NA,NA,NA,0,2015-10-07T14:28:14Z
+315690,UA-0075,small_airport,Zhalizhnia,50.4734613,24.4743705,NA,EU,Ukraine,UA,Lviv,UA-46,46,NA,0,NA,NA,NA,NA,NA,NA,0,2015-10-07T14:30:57Z
+315692,UA-0076,small_airport,Turynka,50.1205511,24.035789,NA,EU,Ukraine,UA,Lviv,UA-46,46,NA,0,NA,NA,NA,NA,NA,NA,0,2015-10-07T14:43:28Z
+315925,UA-0077,small_airport,Aerodrom Krupske,49.451556,24.043866,NA,EU,Ukraine,UA,Lviv,UA-46,46,NA,0,NA,NA,NA,NA,NA,NA,0,2015-10-21T03:27:13Z
+321481,UA-0108,small_airport,Drohobych Airfield,49.3662916,23.5683736,NA,EU,Ukraine,UA,Lviv,UA-46,46,NA,0,NA,NA,NA,NA,NA,NA,0,2016-12-12T00:54:36Z
+316279,UA-0078,small_airport,Chervonoarmiis'ke,45.791332,28.7248912,NA,EU,Ukraine,UA,Odessa,UA-51,51,NA,0,NA,NA,NA,NA,NA,NA,0,2015-11-09T02:29:01Z
+316454,UA-0084,closed,Mykolaivka-Novorosiis'ka,46.1309439,29.8746147,NA,EU,Ukraine,UA,Odessa,UA-51,51,NA,0,NA,NA,NA,NA,NA,NA,0,2015-12-01T14:45:34Z
+321033,UA-0096,small_airport,Frunzivka Airstrip,47.3313702,29.7908674,NA,EU,Ukraine,UA,Odessa,UA-51,51,NA,0,NA,NA,NA,NA,NA,NA,0,2016-11-04T06:18:20Z
+321208,UA-0106,small_airport,Anan'iv Airstrip,47.6796995,29.9669261,NA,EU,Ukraine,UA,Odessa,UA-51,51,NA,0,NA,NA,NA,NA,NA,NA,0,2016-11-15T20:32:47Z
+317424,UA-0085,small_airport,Iziaslav,50.1196431,26.8681069,NA,EU,Ukraine,UA,Khmelnytskyi,UA-68,68,NA,0,NA,NA,NA,NA,NA,NA,0,2016-04-03T09:46:50Z
+321617,UA-0111,closed,Rudnya Airstrip,49.3729435,27.5311313,NA,EU,Ukraine,UA,Khmelnytskyi,UA-68,68,NA,0,NA,NA,NA,NA,NA,NA,0,2016-12-25T02:10:33Z
+316377,UA-0081,small_airport,Tal'ne,48.8715407,30.6593031,NA,EU,Ukraine,UA,Cherkasy,UA-71,71,NA,0,NA,NA,NA,NA,NA,NA,0,2015-11-18T10:59:38Z
+321616,UA-0110,closed,Pogorelovka Airstrip,48.525151,25.993457,NA,EU,Ukraine,UA,Chernivtsi,UA-77,77,NA,0,NA,NA,NA,NA,NA,NA,0,2016-12-25T02:04:05Z
+342230,UA-0162,heliport,Partenit Heliport,44.586,34.3396,374,EU,Ukraine,UA,Crimea,UA-43,43,Alushta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:46:24Z
+342231,UA-0163,heliport,Profug Heliport,44.6511,34.3995,269,EU,Ukraine,UA,Crimea,UA-43,43,Alushta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:54:16Z
+44306,UA-0015,closed,Perekop Airfield,46.15800094604492,33.71699905395508,NA,EU,Ukraine,UA,Crimea,UA-43,43,Armyansk,0,NA,NA,NA,NA,NA,Аэродром Перекоп,0,2009-04-20T06:08:49Z
+44395,UA-0032,small_airport,Artsiz Airfield,45.94499969482422,29.3700008392334,NA,EU,Ukraine,UA,Odessa,UA-51,51,Artsiz,0,NA,NA,NA,NA,NA,"Chervonoglinskoye Airfield, Chervonoglinskoe Airfield, Chervonoglinskaya Airfield, Аэродром Арциз, Аэродром Червоноглинское, Аэродром Червоноглинская",0,2009-04-25T07:02:56Z
+44310,UA-0019,closed,Bagerovo Air Base,45.407001,36.244999,NA,EU,Ukraine,UA,Crimea,UA-43,43,Bagerovo,0,NA,NA,NA,NA,https://en.wikipedia.org/wiki/Baherove_(air_base),"Аэродром Багерово, Bagarovo, Baherove",0,2021-01-27T15:36:01Z
+340332,UA-0137,small_airport,Bekhtery Airfield,46.232,32.292,NA,EU,Ukraine,UA,Kherson,UA-65,65,Bekhtery,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:16:43Z
+44343,UA-0025,medium_airport,Bila Tserkva Airfield,49.79499816894531,30.030000686645508,NA,EU,Ukraine,UA,Kiev,UA-32,32,Bila Tserkva,0,NA,NA,NA,NA,NA,"Belaya Tserkov Airfield, Аэродром Белая Церковь",0,2009-04-22T15:10:03Z
+331659,UA-0125,heliport,Bilohorodka Heliport,50.424536,30.272438,NA,EU,Ukraine,UA,Kiev,UA-32,32,Bilohorodka,0,NA,NA,HD2P,NA,NA,Белогородка,0,2019-07-14T05:17:59Z
+329398,UA-0123,closed,Biloyarivka Airstrip,47.810729,38.629275,347,EU,Ukraine,UA,Donetsk,UA-14,14,Biloyarivka,0,NA,NA,NA,NA,NA,NA,0,2021-03-10T13:49:49Z
+44376,UA-0028,medium_airport,Zhovtneve Air Base,45.63999938964844,28.670000076293945,NA,EU,Ukraine,UA,Odessa,UA-51,51,Bolgrad,0,NA,NA,NA,NA,NA,"Zhovtnevoye Air Base, Zhovtnevoe Air Base, Bolgrad Air Base, Аэродром Жовтневе, Аэродром Жовтневое, Аэродром Болград",0,2009-04-23T17:48:30Z
+342082,UA-0144,small_airport,Borodyanka Aerodrome,50.6661,29.9329,476,EU,Ukraine,UA,Kiev,UA-32,32,Borodyanka,0,NA,NA,NA,NA,NA,NA,0,2021-03-12T11:58:12Z
+321199,UA-0103,small_airport,Buzova Glider Field,50.401711,30.053718,NA,EU,Ukraine,UA,Kiev,UA-32,32,Buzova,0,NA,NA,NA,http://gliding.com.ua,NA,NA,0,2021-01-27T16:01:06Z
+43871,UA-0008,closed,Chortkiv Air Base,48.97800064086914,25.742000579833984,NA,EU,Ukraine,UA,Ternopil,UA-61,61,Chortkiv,0,NA,NA,NA,NA,NA,"Chortkov Air Base, Chyortkov Air Base, Аэродром Чортков, Аэродром Чёртков",0,2009-03-26T08:35:14Z
+44400,UA-0035,closed,Chоrnobil Heliport,51.2859992981,30.198999404900004,NA,EU,Ukraine,UA,Kiev,UA-32,32,Chоrnobil,0,NA,NA,NA,NA,NA,"Chernobyl Heliport, Вертодром Чорнобиль, Вертодром Чернобыль",0,2010-02-22T16:57:04Z
+46368,UA-0070,small_airport,Kamyanka Airfield,48.5525520601,35.0172901154,NA,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Dnipropetrovsk,0,NA,NA,NA,NA,NA,"Kamenka Airfield, Аеродром Кам'янка, Аэродром Каменка",0,2010-03-27T17:57:29Z
+44403,UA-0037,small_airport,Dobrianka Airfield,52.082491,31.121171,449,EU,Ukraine,UA,Chernihiv,UA-74,74,Dobrianka,0,NA,NA,NA,NA,NA,"Аэродром Добрянка, Dobryanka",0,2021-03-12T13:20:14Z
+321200,UA-0104,small_airport,Dymer Airstrip,51.0071035,29.9782477,NA,EU,Ukraine,UA,Kiev,UA-32,32,Dymer,0,NA,NA,NA,NA,NA,NA,0,2016-11-15T07:54:54Z
+43680,UKFY,medium_airport,Dzhankoy Airport,45.700901,34.4189,75,EU,Ukraine,UA,Crimea,UA-43,43,Dzhankoy,0,UKFY,NA,NA,NA,NA,Аэропорт Джанкой,0,2021-03-05T11:04:52Z
+44676,UA-0043,heliport,State House #10 (M S Gorbachev Dacha) (Foros) Heliport,44.391897,33.753988,168,EU,Ukraine,UA,Crimea,UA-43,43,Foros,0,NA,NA,NA,NA,NA,Вертолётная площадка Форос,0,2021-03-19T16:20:27Z
+44308,UA-0017,closed,Genichesk Air Base,46.20899963378906,34.76499938964844,NA,EU,Ukraine,UA,Kherson,UA-65,65,Genichesk,1,NA,NA,NA,NA,NA,Аэродром Геническ,0,2009-04-20T06:23:23Z
+329681,UKNG,small_airport,Gogoliv Airfield,50.515308,31.046581,NA,EU,Ukraine,UA,Kiev,UA-32,32,Gogoliv (Kiev),0,UKNG,NA,NA,NA,NA,NA,0,2018-11-18T06:22:03Z
+44437,UA-0039,small_airport,Tsuniv Airfield,49.831848,23.690052,869,EU,Ukraine,UA,Lviv,UA-46,46,Gorodok,0,UKGC,NA,NA,NA,NA,NA,0,2018-12-31T01:54:15Z
+322575,UA-0115,small_airport,Hardyshivka Airstrip,49.898809,28.436614,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,Hardyshivka,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:01:28Z
+342089,UA-0145,small_airport,Chernihiv West Airfield,51.5196,30.955,509,EU,Ukraine,UA,Chernihiv,UA-74,74,Hirmanka,0,NA,NA,NA,NA,NA,NA,0,2021-03-12T13:14:30Z
+320731,UA-0092,small_airport,Kryzhopil Airstrip,48.35874,28.860397,NA,EU,Ukraine,UA,Vinnytsia,UA-05,05,Holubeche,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:02:07Z
+326392,UA-0122,closed,Iskrivka Airstrip,48.1787704,33.354016,NA,EU,Ukraine,UA,Kirovohrad,UA-35,35,Iskrivka,0,NA,NA,NA,NA,NA,NA,0,2018-02-12T05:02:50Z
+44680,UA-0045,closed,Izyum Air Base,49.2599983215,37.154998779299994,NA,EU,Ukraine,UA,Kharkiv,UA-63,63,Ivanivka,0,NA,NA,NA,NA,NA,"Levkovka Air Base, Аэродром Изюм, Аэродром Левковка",0,2010-01-03T18:37:05Z
+44434,UKOI,small_airport,Izmail International Airport,45.395959,28.801403,125,EU,Ukraine,UA,Odessa,UA-51,51,Izmail,0,UKOI,NA,NA,NA,NA,NA,0,2021-03-19T13:49:45Z
+44313,UA-0022,medium_airport,Kacha Air Base,44.779764,33.572245,403,EU,Ukraine,UA,Crimea,UA-43,43,Kacha,0,UKFA,NA,NA,NA,NA,"Аэродром Кача, URFA, XRFA",0,2021-03-19T15:49:30Z
+44684,UA-0046,small_airport,Kalinivka Air Base,49.48500061035156,28.53700065612793,NA,EU,Ukraine,UA,Vinnytsia,UA-05,05,Kalinivka,0,NA,NA,NA,NA,NA,"Kalinovka Air Base, Аэродром Калиновка",0,2009-08-11T19:04:45Z
+321214,UA-0107,small_airport,Kamyanka Airfield,48.6955236,26.6092885,NA,EU,Ukraine,UA,Khmelnytskyi,UA-68,68,Kamyamka,0,NA,NA,NA,NA,NA,"Mekanik Avia,Механик Авиа",0,2016-11-16T01:17:27Z
+44431,UKHD,small_airport,Kharkiv North Airport,50.025002,36.268902,592,EU,Ukraine,UA,Kharkiv,UA-63,63,Kharkiv,0,UKHV,NA,NA,NA,https://en.wikipedia.org/wiki/Kharkiv_North_Airport,"Kharkiv North Airport, Kharkiv Sokolniki Airport, Kharkоv Severny Airport, Аэропорт Харьков Северный, Аэропорт Харьков Сокольники, Аеропорт Харків-Північний",0,2020-09-26T04:59:46Z
+44332,UA-0024,closed,Askaniya-Nova Airport,46.419998,33.724998,NA,EU,Ukraine,UA,Kherson,UA-65,65,Khrestivka,0,NA,NA,NA,NA,NA,"Askania-Nova Airport, Аэропорт Аскания-Нова",0,2021-02-05T09:12:51Z
+341519,UA-0139,heliport,Kyiv Challenge Heliport,50.40645,30.57943,NA,EU,Ukraine,UA,Kiev,UA-32,32,Kiev,0,NA,NA,NA,NA,NA,NA,0,2021-03-02T11:45:29Z
+341520,UA-0140,heliport,Kyiv Challenge Heliport,50.40645,30.57943,NA,EU,Ukraine,UA,Kiev,UA-32,32,Kiev,0,NA,NA,NA,NA,NA,NA,0,2021-03-02T11:45:38Z
+44396,UA-0033,closed,Kiliya Airport,45.458866,29.287591,2,EU,Ukraine,UA,Odessa,UA-51,51,Kiliya,0,NA,NA,NA,NA,NA,Аэропорт Килия,0,2021-03-19T13:50:53Z
+46365,UA-0067,small_airport,Kanatove Air Base,48.561364587499995,32.3872071505,NA,EU,Ukraine,UA,Kirovohrad,UA-35,35,Kirovohrad,0,NA,NA,NA,NA,NA,"Kanatovo Air Base, Аеродром Канатове, Аэродром Канатово",0,2010-03-27T17:22:49Z
+44297,UA-0012,medium_airport,Kirovskoe Air Base,45.16699981689453,35.18299865722656,NA,EU,Ukraine,UA,Crimea,UA-43,43,Kirovskoe,0,NA,NA,NA,NA,NA,"Kirovskoye Air Base, Аэродром Кировское",0,2009-04-19T18:49:23Z
+326268,UA-0121,small_airport,Kobelyachok Airstrip,49.0522143,33.7993478,NA,EU,Ukraine,UA,Poltava,UA-53,53,Kobelyachok,0,NA,NA,NA,NA,NA,NA,0,2018-01-28T02:22:40Z
+43870,UA-0007,closed,Kolomiya Airport,48.55099868774414,25.04199981689453,NA,EU,Ukraine,UA,Ivano-Frankivsk,UA-26,26,Kolomiya,0,NA,NA,NA,NA,NA,"Kolomyya Airport, Аэропорт Коломыя, Аэропорт Коломия",0,2009-03-26T08:25:34Z
+320502,UA-0090,small_airport,Korostelivka Airstrip,50.557511,28.781421,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,Korostelivka,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:00:12Z
+321198,UA-0102,small_airport,Lyneya Airstrip,51.413316,30.87469,446,EU,Ukraine,UA,Chernihiv,UA-74,74,Kovpyta,0,NA,NA,NA,NA,NA,NA,0,2021-03-12T13:16:06Z
+320485,UA-0088,small_airport,Chervonobirka Airstrip,50.588009,29.264402,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,Krasnobirka,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T15:59:19Z
+44298,UA-0013,small_airport,Risovoye Airfield,45.99599838259999,33.680999755900004,NA,EU,Ukraine,UA,Crimea,UA-43,43,Krasnoperekopsk,0,NA,NA,NA,NA,NA,"Risovoe Airfield, Аэродром Рисовое",0,2010-03-06T06:59:11Z
+45179,UA-0050,small_airport,Kakhnovka Airfield,49.1342,33.4766,266,EU,Ukraine,UA,Poltava,UA-53,53,Kremenchuk,0,UKHK,KHU,NA,NA,https://en.wikipedia.org/wiki/Kremenchuk_Airport,Аэродром Кахновка,0,2014-12-20T03:45:32Z
+321182,UA-0099,small_airport,Kremydivka Airfield,46.758049,30.792846,250,EU,Ukraine,UA,Odessa,UA-51,51,Kremydivka,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T13:57:23Z
+45170,UA-0047,closed,Dolgintsevo Air Base,47.887,33.533,341,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Kryvyi Rih,0,UKDJ,NA,NA,NA,NA,"УКДЙ, Аэродром Долгинцево",0,2017-08-06T09:08:29Z
+340326,UA-0131,closed,Kukushkino Airstrip,45.698139,33.36079,NA,EU,Ukraine,UA,Crimea,UA-43,43,Kukushkino,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:08:25Z
+46120,UA-0054,closed,Kupyansk Air Base,49.684,37.715,NA,EU,Ukraine,UA,Kharkiv,UA-63,63,Kupyansk,0,NA,NA,NA,NA,NA,Аэродром Купянск,0,2010-01-03T18:33:56Z
+340325,UA-0130,closed,Kurgannoye Airstrip,45.8541,33.7062,NA,EU,Ukraine,UA,Crimea,UA-43,43,Kurgannoye,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:07:17Z
+321716,UA-0113,small_airport,Lanivtsi Airstrip,49.84537,26.116193,NA,EU,Ukraine,UA,Ternopil,UA-61,61,Lanivtsi,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:02:22Z
+340331,UA-0136,small_airport,Lazume Airfield,46.0838,32.5075,NA,EU,Ukraine,UA,Kherson,UA-65,65,Lazume,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:16:04Z
+320590,UA-0091,small_airport,Lidavo Airstrip,50.4681472,26.217730799999998,NA,EU,Ukraine,UA,Rivnens'ka Oblast',UA-56,56,Lidavo,0,NA,NA,NA,NA,NA,NA,0,2016-09-30T13:08:26Z
+44397,UA-0034,small_airport,Limanske Airfield,46.66999816894531,30.010000228881836,NA,EU,Ukraine,UA,Odessa,UA-51,51,Limanske,0,NA,NA,NA,NA,NA,"Limanskoye Air Base, Limanskoe Air Base, Аэродром Лиманское, Аэродром Лиманське",0,2009-04-24T17:50:11Z
+45180,UA-0051,small_airport,Lokhvitsya Airport,50.346,33.296,NA,EU,Ukraine,UA,Poltava,UA-53,53,Lokhvitsya,0,NA,NA,NA,NA,NA,"Lokhvitsa Airport, Аэропорт Лохвица",0,2009-11-18T14:32:00Z
+44369,UA-0027,closed,Bliznyuki Air Base,48.876999,36.549999,NA,EU,Ukraine,UA,Kharkiv,UA-63,63,Lozovaya,0,UKHB,NA,NA,NA,NA,"Bliznetsy Air Base, Аэродром Близнюки, Аэродром Близнецы",0,2021-01-23T06:11:24Z
+46268,UA-0060,closed,Gostra Mogila Airfield,48.532282,39.390879,NA,EU,Ukraine,UA,Luhansk,UA-09,09,Luhansk,0,NA,NA,NA,NA,NA,"Ostraya Mogila Airfield, Luhansk East Airfield, Lugansk Vostochny Airfield, Аеродром Гостра Могила, Аэродром Острая Могила, Аэродром Луганск Восточный",0,2021-04-11T13:50:22Z
+342019,UA-0141,small_airport,Luhansk Aviation Sports Club Airfield,48.50259,39.150295,545,EU,Ukraine,UA,Luhansk,UA-09,09,Luhansk,0,NA,NA,NA,NA,NA,NA,0,2021-04-11T13:50:11Z
+44393,UA-0030,closed,Luzhani Airfield,48.38399887084961,25.767000198364254,NA,EU,Ukraine,UA,Chernivtsi,UA-77,77,Luzhani,0,NA,NA,NA,NA,NA,"Luzhany Airfield, Chernivtsi Northwest Airfield, Chernovtsy Northwest Airfield, Аэродром Лужаны, Аэродром Черновцы Северозападные",0,2009-04-24T17:03:47Z
+342020,UA-0142,heliport,Lysychansk Heliport,48.9323,38.4097,433,EU,Ukraine,UA,Luhansk,UA-09,09,Lysychansk,0,NA,NA,NA,NA,NA,NA,0,2021-03-10T13:45:15Z
+46366,UA-0068,closed,Mala Vyska Airfield,48.632,31.616,NA,EU,Ukraine,UA,Kirovohrad,UA-35,35,Mala Vyska,0,NA,NA,NA,NA,NA,"Malaya Viska Airfield, Аеродром Мала Виска, Аэродром Малая Виска",0,2010-03-27T17:35:19Z
+321490,UA-0109,small_airport,Malyn Airstrip,50.786675,29.246711,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,Malyn,0,NA,NA,NA,NA,NA,NA,0,2016-12-12T08:48:49Z
+46264,UA-0056,small_airport,Mayske Airfield,48.491944,35.625933,NA,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Mayske,0,NA,NA,NA,http://www.avia-soyuz.com.ua/,NA,"Mayskoye Airfield, Mayskoe Airfield, Аеродром Майське, Аэродром Майское",0,2021-04-11T13:47:55Z
+44311,UA-0020,medium_airport,Melitopol Air Base,46.880001,35.305,NA,EU,Ukraine,UA,Zaporizhia,UA-23,23,Melitopol,0,UKDM,NA,NA,NA,NA,Аэродром Мелитополь,0,2017-10-20T01:35:46Z
+44305,UA-0014,closed,Donuzlav Air Base,45.32699966430664,33.04999923706055,NA,EU,Ukraine,UA,Crimea,UA-43,43,Mirnyi,0,NA,NA,NA,NA,NA,Аэродром Донузлав,0,2009-04-20T05:59:43Z
+46265,UA-0057,small_airport,Mospyne Airfield,47.841620693900005,38.100843429600005,NA,EU,Ukraine,UA,Donetsk,UA-14,14,Mospyne,0,NA,NA,NA,NA,NA,"Mospine Airfield, Mospino Airfield, Аеродром Моспине, Аэродром Моспино",0,2010-03-05T14:52:43Z
+324998,UKOR,small_airport,Kulbakyne Air Base,46.936433,32.098618,177,EU,Ukraine,UA,Mykolaiv,UA-48,48,Mykolaiv,0,UKOR,NA,NA,NA,NA,NA,0,2021-01-27T16:19:19Z
+45178,UA-0049,small_airport,Myrhorod Air Base,49.932,33.641,400,EU,Ukraine,UA,Poltava,UA-53,53,Myrhorod,0,NA,MXR,NA,NA,https://en.wikipedia.org/wiki/Myrhorod_Air_Base,"Mirgorod Air Base, Аэродром Миргород",0,2015-04-15T02:47:35Z
+46270,UA-0062,small_airport,Liman Airfield,46.57851,30.703053,NA,EU,Ukraine,UA,Odessa,UA-51,51,Naberezhne,0,UKOE,NA,NA,http://www.airclub.odessa.ua/,NA,"Gidroport Airfield, Аэродром Лиман, Аэродром Гидропорт",0,2021-03-19T13:54:56Z
+323947,UA-0116,small_airport,Nova Vasylivka Airstrip,50.3228953,28.3612108,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,Nova Vasylivka,0,NA,NA,NA,NA,NA,NA,0,2017-06-17T11:18:06Z
+44402,UA-0036,closed,Dmitrievka Airfield,48.95000076293945,39.1150016784668,NA,EU,Ukraine,UA,Luhansk,UA-09,09,Novoaydar,0,NA,NA,NA,NA,NA,"Novoaydar Airfield, Аэродром Дмитриевка, Аэродром Новоайдар",0,2009-04-28T18:38:26Z
+44296,UKFI,medium_airport,Saky Air Base,45.090611,33.598536,36,EU,Ukraine,UA,Crimea,UA-43,43,Novofedorivka,0,UKFI,NA,NA,NA,https://en.wikipedia.org/wiki/Novofedorivka,"Аэродом Саки, URFI",0,2021-03-19T15:47:28Z
+326004,UA-0120,small_airport,Novopavlivka Airstrip,48.13629,36.73524,NA,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Novopavlivka,0,NA,NA,NA,NA,NA,NA,0,2021-04-11T13:48:13Z
+46274,UA-0066,closed,Ochakiv Air Base,46.647786,31.553764,NA,EU,Ukraine,UA,Mykolaiv,UA-48,48,Ochakiv,0,NA,NA,NA,NA,NA,"Ochakov Air Base, Аеродром Очакiв, Аэродром Очаков",0,2019-01-01T05:27:08Z
+46269,UA-0061,closed,Dalnik Airfield,46.4921290263,30.6201839447,NA,EU,Ukraine,UA,Odessa,UA-51,51,Odessa,0,NA,NA,NA,NA,NA,"Zastava Airfield, Аэродром Дальник, Аэродром Застава",0,2010-06-27T06:53:35Z
+320475,UA-0087,closed,Krasni Okny Airfield,47.549189,29.428682,NA,EU,Ukraine,UA,Odessa,UA-51,51,Okny,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T15:58:24Z
+44294,UA-0010,medium_airport,Oktyabrskoe Air Base,45.31999969482422,34.099998474121094,NA,EU,Ukraine,UA,Crimea,UA-43,43,Oktyabrskoe,0,NA,NA,NA,NA,NA,"Oktyabrskoye Air Base, Аэродром Октябрьское",0,2009-04-19T18:28:33Z
+342216,UA-0148,closed,Oleksandrivka Airfield,46.3069,31.9753,3,EU,Ukraine,UA,Kherson,UA-65,65,Oleksandrivka,0,NA,NA,NA,NA,NA,NA,0,2021-03-22T06:56:12Z
+44394,UA-0031,heliport,Oleksandriya Air Base,48.68000030517578,33.18000030517578,NA,EU,Ukraine,UA,Kirovohrad,UA-35,35,Oleksandriya,0,NA,NA,NA,NA,NA,"Aleksandriya Air Base, Alexandriya Air Base, Аэродром Александрия, Аэродром Олександрия, Аэродром Олександрiя",0,2009-04-24T17:22:34Z
+340333,UA-0138,closed,Oleksiivka Airfield,46.2626,32.218,NA,EU,Ukraine,UA,Kherson,UA-65,65,Oleksiivka,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T15:26:58Z
+324103,UA-0117,small_airport,Orekhovo Airfield,48.20211,35.021351,489,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Orekhovo,0,UKYO,NA,NA,NA,NA,NA,0,2021-04-11T13:47:39Z
+44600,UA-0009,small_airport,Gora Klementyeva Airfield,45.012616,35.247767,NA,EU,Ukraine,UA,Crimea,UA-43,43,Otvazhnoe,0,NA,NA,NA,NA,NA,"Uzun-Syrt Airfield, Аэродром Гора Клементьева, Аэродром Узун-Сырт",0,2021-01-27T15:47:16Z
+340324,UA-0129,small_airport,Koktebel Gliding Center,45.020896,35.206845,801,EU,Ukraine,UA,Crimea,UA-43,43,Otvazhnoe,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:57:30Z
+44314,UA-0023,closed,Chkalovskiy Airfield,45.073002,35.202999,NA,EU,Ukraine,UA,Crimea,UA-43,43,Pervomaiske,0,NA,NA,NA,NA,NA,"Chkalovsky Airfield, Аэродром Чкаловский",0,2021-01-27T15:42:52Z
+44368,UA-0026,closed,Blagoyevo Air Base,46.89500045776367,30.700000762939453,NA,EU,Ukraine,UA,Odessa,UA-51,51,Petrovka,0,NA,NA,NA,NA,NA,"Blagoevo Air Base, Buyalik Air Base, Buyalyk Air Base, Аэродром Благоево, Аэродром Буялык",0,2009-04-24T12:05:25Z
+320732,UA-0093,closed,Pishchanka Airstrip,48.200516,28.863063,NA,EU,Ukraine,UA,Vinnytsia,UA-05,05,Pishchanka,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:03:02Z
+340328,UA-0133,closed,Pochetnoye Airfield,45.999861,33.78224,NA,EU,Ukraine,UA,Crimea,UA-43,43,Pochetnoye,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:11:28Z
+318220,UA-0086,small_airport,Pohrebyshche,49.4943236,29.2417992,NA,EU,Ukraine,UA,Vinnytsia,UA-05,05,Pohrebyshche,0,NA,NA,NA,NA,NA,NA,0,2016-06-02T11:31:41Z
+45177,UA-0048,small_airport,Poltava Air Base,49.627,34.487,NA,EU,Ukraine,UA,Poltava,UA-53,53,Poltava,0,NA,NA,NA,NA,NA,Аэродром Полтава,0,2009-11-18T14:13:25Z
+340329,UA-0134,closed,Chervonyi Chaban Airfield,46.18,33.5934,NA,EU,Ukraine,UA,Kherson,UA-65,65,Preobrazhenka,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:13:26Z
+340330,UA-0135,small_airport,Pryvillia Airfield,46.1497,33.4064,NA,EU,Ukraine,UA,Kherson,UA-65,65,Pryvillia,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:14:15Z
+320856,UA-0095,small_airport,Turiisk Airfield,51.021679,24.618763,NA,EU,Ukraine,UA,Volyn,UA-07,07,Radovychi,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:04:37Z
+324581,UA-0119,small_airport,Romashky Airstrip,49.7354043,30.5536534,NA,EU,Ukraine,UA,Kiev,UA-32,32,Romashky,0,NA,NA,NA,NA,NA,NA,0,2017-07-29T00:36:36Z
+44291,UKFG,medium_airport,Gvardeyskoe Air Base,45.115002,33.977001,721,EU,Ukraine,UA,Crimea,UA-43,43,Sarabuz,0,UKFG,NA,NA,NA,NA,"Gvardeyskoye Air Base, Аэродром Гвардейское, Hvardiiske",0,2021-03-05T11:06:42Z
+44293,UKFB,medium_airport,Sevastopol International Airport / Belbek Air Base,44.691822,33.57462,344,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,UKFB,UKS,NA,NA,https://en.wikipedia.org/wiki/Sevastopol_International_Airport,"Аэропорт Бельбек, URFB",0,2021-03-19T15:50:30Z
+44307,UA-0016,small_airport,Yukharina Balka Airfield,44.5509986877,33.4879989624,NA,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,NA,NA,NA,NA,NA,Аэродром Юхарина Балка,0,2010-03-05T16:48:40Z
+44309,UA-0018,small_airport,Sevastopol Kozachya Bay Aerodrome / Khersones Air Base,44.578466,33.395462,46,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,NA,NA,NA,NA,NA,"Hersones Air Base, Аэродром Херсонес, Khersones Air Base, Kozachya Bukhta",0,2021-03-19T15:55:16Z
+44602,UA-0041,closed,Yuzhniy Airfield,44.5800018311,33.4959983826,NA,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,NA,NA,NA,NA,NA,"Molochka Airfield, Аэродром Южный, Аэродром Молочка",0,2010-03-05T16:48:18Z
+44677,UA-0044,heliport,Sevastopol Naval Institute Helipad,44.61029815673828,33.47949981689453,NA,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,NA,NA,NA,NA,NA,Sevastopol Navy Institute Helipad,0,2009-08-10T15:18:53Z
+46271,UA-0063,heliport,Kruglaya Bukhta Heliport,44.6014149349,33.4506440163,NA,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,NA,NA,NA,NA,NA,"Sevastopolsky Aviaremontny Zavod Heliport, Sevastopol Aircraft Repair Plant Heliport, Вертодром Круглая Бухта",0,2010-03-05T17:32:39Z
+342219,UA-0151,heliport,Demetrynskaya Street Helipad,44.5097,33.6069,305,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:11:28Z
+342220,UA-0152,heliport,Orlinovsky Helipad,44.4207,33.6741,348,EU,Ukraine,UA,Sevastopol (city),UA-40,40,Sevastopol,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:13:37Z
+320486,UA-0089,small_airport,Shevchenkove Airstrip,50.876703,29.071036,NA,EU,Ukraine,UA,Zhytomyr,UA-18,18,Shevchenkove,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T15:59:46Z
+44429,UKCS,small_airport,Sievierodonetsk Airport,48.900926,38.54279,236,EU,Ukraine,UA,Luhansk,UA-09,09,Sievierodonetsk,0,UKCS,SEV,NA,NA,NA,"Severodonetsk Airport, Аеропорт Северодонецьк, Аэропорт Северодонецк",0,2021-03-10T13:38:32Z
+44430,UKFW,small_airport,Zavodskoe Airfield,44.919998,34.063,955,EU,Ukraine,UA,Crimea,UA-43,43,Simferopol,0,URFW,NA,NA,http://unavia.narod.ru/engl/index.html,https://en.wikipedia.org/wiki/Zavodske_Airfield,"Zavodskoye Airfield, Аэродром Заводское",0,2020-09-26T05:05:08Z
+342021,UA-0143,small_airport,Blagodatnoye Delta-Paradrome,47.9042,38.5194,575,EU,Ukraine,UA,Donetsk,UA-14,14,Siyatel',0,NA,NA,NA,NA,NA,NA,0,2021-03-10T13:48:23Z
+44312,UA-0021,small_airport,Skadovsk Airport,46.131887999999996,32.902506,7,EU,Ukraine,UA,Kherson,UA-65,65,Skadovsk,0,NA,NA,NA,NA,NA,Аэродром Скадовск,0,2021-03-19T15:36:02Z
+340327,UA-0132,closed,Slavne Airfield,45.731711,33.21123,7,EU,Ukraine,UA,Crimea,UA-43,43,Slavne,0,NA,NA,NA,NA,NA,Slavnoye,0,2021-03-19T15:37:35Z
+320733,UA-0094,small_airport,Smodna Airfield,48.306675,25.14064,NA,EU,Ukraine,UA,Ivano-Frankivsk,UA-26,26,Smodna,0,NA,NA,NA,NA,NA,NA,0,2021-01-27T16:03:19Z
+44601,UA-0040,closed,Sovyetskiy Air Base,45.35499954223633,34.939998626708984,NA,EU,Ukraine,UA,Crimea,UA-43,43,Sovyetskiy,0,NA,NA,NA,NA,NA,"Sovetskiy Air Base, Sovyetsky Air Base, Sovietsky Air Base, Аэродром Советский",0,2009-07-21T18:22:07Z
+44433,UKKT,closed,Svyatoshyn Airport,50.478224,30.384631,582,EU,Ukraine,UA,Kiev,UA-32,32,Svyatoshyn,0,UKKT,NA,NA,NA,NA,NA,0,2021-02-05T09:13:53Z
+44377,UA-0029,medium_airport,Bolshoy Tokmak Air Base,47.285459,35.707855,NA,EU,Ukraine,UA,Zaporizhia,UA-23,23,Tokmak,0,NA,NA,NA,NA,NA,"Bolshoi Tokmak Air Base, Аэродром Большой Токмак",0,2021-03-12T11:52:22Z
+321103,UA-0097,small_airport,Troits'ke Airstrip,47.6693733,30.2982862,NA,EU,Ukraine,UA,Odessa,UA-51,51,Troits'ke,0,NA,NA,NA,NA,NA,NA,0,2016-11-10T01:18:58Z
+46367,UA-0069,closed,Uman Air Base,48.79403,30.208197,NA,EU,Ukraine,UA,Cherkasy,UA-71,71,Uman,0,UKKX,NA,NA,NA,NA,"Rodnikivka Airfield, Rodnikovka Airfield, Аеродром Умань, Аеродром Родникiвка, Аэродром Родниковка",0,2019-03-18T06:26:39Z
+46267,UA-0059,small_airport,Valeryanivka Airfield,47.6288427809,37.399778366099994,NA,EU,Ukraine,UA,Donetsk,UA-14,14,Volnovakha,0,NA,NA,NA,http://sky.dn.ua/,NA,"Valeryanovka Airfield, Аеродром Валер'янівка, Аэродром Валерьяновка",0,2010-03-05T15:05:42Z
+44295,UA-0011,closed,Karankut Air Base,45.577999,34.282001,52,EU,Ukraine,UA,Crimea,UA-43,43,Volnoye,0,NA,NA,NA,NA,NA,"Krasnogvardeyskoe Air Base, Krasnogvardeyskoye Air Base, Аэродром Каранкут, Аэродром Красногвардейское",0,2018-12-31T05:47:51Z
+335516,UKGW,small_airport,Voroniv Airfield,50.695956,26.699958,722,EU,Ukraine,UA,Rivne,UA-19,19,Voroniv,0,UKGW,NA,NA,NA,NA,NA,0,2020-08-15T05:49:51Z
+44625,UA-0042,small_airport,Voznesensk Air Base,47.5099983215332,31.2549991607666,NA,EU,Ukraine,UA,Mykolaiv,UA-48,48,Voznesensk,0,NA,NA,NA,NA,NA,Аэродром Вознесенск,0,2009-07-29T08:26:37Z
+329476,UA-0124,heliport,Vychivka Helicopter Base,51.8205394,26.2873632,NA,EU,Ukraine,UA,Rivne,UA-19,19,Vychivka,0,NA,NA,NA,NA,NA,NA,0,2018-10-19T06:17:01Z
+46272,UA-0064,heliport,Yalta Heliport,44.485596,34.13744,430,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,Вертодром Ялта,0,2021-03-19T16:32:28Z
+46273,UA-0065,heliport,Respect Hall Helipad,44.432273,34.081035,NA,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,Вертолётная площадка Респект Холл,0,2021-03-19T16:28:49Z
+342217,UA-0149,heliport,Mriya Resort Helipad,44.3977,33.94168,251,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:09:05Z
+342218,UA-0150,heliport,Internal Affairs Ministry Dacha Helipad,44.40043,33.92258,182,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:08:46Z
+342221,UA-0153,heliport,State House #9 (Oliva) Heliport,44.4074,33.8539,184,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:19:57Z
+342222,UA-0154,heliport,State House #8 (Berehove) Heliport,44.4045,33.8663,NA,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:21:02Z
+342223,UA-0155,heliport,GK Tavriya Resort Seaside Helipad,44.4043,33.8779,NA,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:24:18Z
+342224,UA-0156,heliport,GK Tavriya Resort Heliport,44.40605,33.88245,430,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:24:50Z
+342225,UA-0157,heliport,Naberezhnaya Helipad,44.39893,33.9192,16,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:27:25Z
+342226,UA-0158,heliport,Oreanda Heliport,44.4513,34.1293,479,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:30:05Z
+342227,UA-0159,heliport,Pension Wisteria Helipad,44.461824,34.145346,125,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:31:37Z
+342228,UA-0160,heliport,Massandra Palace Heliport,44.5145,34.2039,971,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:36:03Z
+342229,UA-0161,heliport,Artek Heliport,44.56059,34.307563,335,EU,Ukraine,UA,Crimea,UA-43,43,Yalta,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T16:44:30Z
+46266,UA-0058,small_airport,Yenakiyeve Airfield,48.179565,38.201866,727,EU,Ukraine,UA,Donetsk,UA-14,14,Yenakiyeve,0,NA,NA,NA,NA,NA,"Yenakieve Airfield, Yenakiyevo Airfield, Enakievo Airfield, Аеродром Енакiеве, Аэродром Енакиево, DOSAAF Airfield",0,2021-03-10T13:46:35Z
+342212,UA-0147,heliport,Yuzhne Heliport,46.61731,31.11865,119,EU,Ukraine,UA,Odessa,UA-51,51,Yuzhne,0,NA,NA,NA,NA,NA,NA,0,2021-03-19T13:59:43Z
+322148,UA-0114,small_airport,Zahnitkiv Airstrip,48.0351886,28.9258992,NA,EU,Ukraine,UA,Odessa,UA-51,51,Zahnitkiv,0,NA,NA,NA,NA,NA,NA,0,2017-02-13T01:38:17Z
+46263,UA-0055,small_airport,Shiroke Airfield,47.9188730788,34.9574661255,NA,EU,Ukraine,UA,Zaporizhia,UA-23,23,Zaporizhia,0,NA,NA,NA,NA,NA,"Shirokoye Airfield, Shirokoe Airfield, Аеродром Широке, Аэродром Широкое",0,2010-03-05T14:00:53Z
+46369,UA-0071,closed,Zhovti Vody Airstrip,48.350502506,33.444271087599994,NA,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Zhovti Vody,0,NA,NA,NA,NA,NA,"Zholtyye Vody Airstrip, ЗПС Жовті Води, ВПП Жёлтые Воды, ВПП Желтые Воды",0,2010-03-27T18:04:32Z
+46370,UA-0072,closed,Volodimirivka Airstrip,48.2840353492,33.4489488602,NA,EU,Ukraine,UA,Dnipropetrovsk,UA-12,12,Zhovti Vody,0,NA,NA,NA,NA,NA,"ЗПС Володимирівка, ВПП Владимировка",0,2010-03-27T18:11:37Z
+44432,UKKO,medium_airport,Ozerne Air Base,50.158298,28.7383,761,EU,Ukraine,UA,Zhytomyr,UA-18,18,Zhytomyr,0,UKKO,NA,NA,NA,https://en.wikipedia.org/wiki/Ozerne_(air_base),"Zhitomyr Ozernoye, Oziernoye, Ozernoe, Ozernoye, Ozyornoye, Ozerne, Ozernyy, Ozyornaya",0,2017-02-18T21:11:10Z
+45182,UA-0053,closed,Palmira Airfield,49.763,32.123,NA,EU,Ukraine,UA,Cherkasy,UA-71,71,Zolotonosha,0,NA,NA,NA,NA,NA,Аэродром Пальмира,0,2009-11-18T14:53:00Z

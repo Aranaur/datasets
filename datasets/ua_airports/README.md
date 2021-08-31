@@ -1,0 +1,3 @@
+# Airports in Ukraine
+
+List of airports in Ukraine, with latitude and longitude. Unverified community data from http://ourairports.com/countries/UA/
