@@ -2,7 +2,10 @@
 
 List of airports in Ukraine, with latitude and longitude. Unverified community data from http://ourairports.com/countries/UA/
 
-First 5 rows:
+**Rows**: 230
+**Columns**: 23
+
+**Head**:
 
 |id         |ident  |type                |name                                                  |lat               |long              |elevation_ft|continent|country_name|iso_country|region_name       |iso_region|local_region|municipality       |scheduled_service|gps_code|iata_code|local_code|home_link                                              |wikipedia_link                                                     |keywords                                                                                                                                                    |score|last_updated        |
 |-----------|-------|--------------------|------------------------------------------------------|------------------|------------------|------------|---------|------------|-----------|------------------|----------|------------|-------------------|-----------------|--------|---------|----------|-------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|--------------------|
